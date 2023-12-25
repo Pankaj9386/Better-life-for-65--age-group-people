@@ -8,21 +8,24 @@ This web project consist of 3 html and and their respective css files.
 65+Contact.html  file shows the contact details of the owner of site or organisation to the user.
 
 the screenshots of health page
+![Screenshot (130)](https://github.com/Pankaj9386/Better-life-for-65--age-group-people/assets/139941535/bbce4f8c-4f1b-46d2-8a76-2e4d5eb29965)
+![Screenshot (131)](https://github.com/Pankaj9386/Better-life-for-65--age-group-people/assets/139941535/12c9b0d8-21a2-4fc2-87aa-02f796e33b29)
+![Screenshot (132)](https://github.com/Pankaj9386/Better-life-for-65--age-group-people/assets/139941535/9901a4f4-94ca-47eb-a709-6cc3d93b5a28)
+![Screenshot (133)](https://github.com/Pankaj9386/Better-life-for-65--age-group-people/assets/139941535/4bec6ca7-2750-4c93-97a9-c6bcd7b0e04a)
+![Screenshot (134)](https://github.com/Pankaj9386/Better-life-for-65--age-group-people/assets/139941535/280932d4-3f94-44b6-b564-1e69923ad09e)
 
-![Screenshot (130)](https://github.com/Pankaj9386/Better-life-for-65-age-group-people/assets/139941535/ad12aebc-a245-474f-8216-4b3e6e697015)
-![Screenshot (131)](https://github.com/Pankaj9386/Better-life-for-65-age-group-people/assets/139941535/abb6c9b1-8505-40f1-aae7-7ec8e78a87b4)
-![Screenshot (132)](https://github.com/Pankaj9386/Better-life-for-65-age-group-people/assets/139941535/8c2f9061-f1ce-4d90-831d-df66d2318a75)
-![Screenshot (133)](https://github.com/Pankaj9386/Better-life-for-65-age-group-people/assets/139941535/ff4eb174-215f-427f-aedd-efef2e3450d2)
-![Screenshot (134)](https://github.com/Pankaj9386/Better-life-for-65-age-group-people/assets/139941535/40e81a45-3d98-4cff-9d2a-4484774edaeb)
+
 
 the screenshots of wealth page
+![Screenshot (135)](https://github.com/Pankaj9386/Better-life-for-65--age-group-people/assets/139941535/da620975-b9e0-44c4-9c6f-1af18981e4c3)
+![Screenshot (136)](https://github.com/Pankaj9386/Better-life-for-65--age-group-people/assets/139941535/89840f27-d6a6-4af6-8811-ff175b0c3d14)
 
-![Screenshot (135)](https://github.com/Pankaj9386/Better-life-for-65-age-group-people/assets/139941535/e998b6fd-44b5-4fae-b8f0-e752abb875b7)
-![Screenshot (136)](https://github.com/Pankaj9386/Better-life-for-65-age-group-people/assets/139941535/1fe3524f-36c1-4b74-acc3-33f62aaa014d)
+
 
 the screenshot of contact page
 
-![Screenshot (137)](https://github.com/Pankaj9386/Better-life-for-65-age-group-people/assets/139941535/4ae227cc-5047-4c69-8258-e4eb24faf9eb)
+![Screenshot (137)](https://github.com/Pankaj9386/Better-life-for-65--age-group-people/assets/139941535/b5c78b66-e5df-407c-8988-4e6de3885c66)
+
 
 
 
