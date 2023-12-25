@@ -14,3 +14,16 @@ the screenshots of health page
 ![Screenshot (132)](https://github.com/Pankaj9386/Better-life-for-65-age-group-people/assets/139941535/8c2f9061-f1ce-4d90-831d-df66d2318a75)
 ![Screenshot (133)](https://github.com/Pankaj9386/Better-life-for-65-age-group-people/assets/139941535/ff4eb174-215f-427f-aedd-efef2e3450d2)
 ![Screenshot (134)](https://github.com/Pankaj9386/Better-life-for-65-age-group-people/assets/139941535/40e81a45-3d98-4cff-9d2a-4484774edaeb)
+
+the screenshots of wealth page
+
+![Screenshot (135)](https://github.com/Pankaj9386/Better-life-for-65-age-group-people/assets/139941535/e998b6fd-44b5-4fae-b8f0-e752abb875b7)
+![Screenshot (136)](https://github.com/Pankaj9386/Better-life-for-65-age-group-people/assets/139941535/1fe3524f-36c1-4b74-acc3-33f62aaa014d)
+
+the screenshot of contact page
+
+![Screenshot (137)](https://github.com/Pankaj9386/Better-life-for-65-age-group-people/assets/139941535/4ae227cc-5047-4c69-8258-e4eb24faf9eb)
+
+
+
+
